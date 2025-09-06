@@ -10,7 +10,7 @@ export const projectsData = {
       github: "https://github.com/kbravrl/E-Commerce-Website",
       demo: null,
       featured: true,
-      image: "/E-Commerce-Platform.jpg",
+      image: "/eCommercePlatform.jpg",
     },
     {
       title: "Airline Booking System",
@@ -47,7 +47,7 @@ export const projectsData = {
       github: "https://github.com/kbravrl/full-stack-student-app",
       demo: null,
       featured: true,
-      image: "/Full-Stack-Student-App.jpg",
+      image: "/fullStackStudentApp.jpg",
     },
     {
       title: "Full Stack Book Store",
