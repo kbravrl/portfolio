@@ -1,7 +1,9 @@
 import About from "../components/about/About";
 import Certifications from "../components/certifications/Certifications";
+import Contact from "../components/contact/Contact";
 import Education from "../components/education/Education";
 import Experience from "../components/experience/Experience";
+import Footer from "../components/footer/Footer";
 import Header from "../components/header/Header";
 import Hero from "../components/hero/Hero";
 import Projects from "../components/projects/Projects";
@@ -18,6 +20,8 @@ const HomePage = () => {
       <Skills />
       <Projects />
       <Certifications />
+      <Contact />
+      <Footer />
     </main>
   );
 };
