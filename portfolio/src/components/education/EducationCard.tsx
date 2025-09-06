@@ -45,7 +45,7 @@ const EducationCard: React.FC<EducationCardProps> = ({
       </div>
 
       <div className="bg-white/60 p-6 rounded-lg">
-        <h4 className="font-semibold text-gray-900 mb-3">Ana Dersler:</h4>
+        <h4 className="font-semibold text-gray-900 mb-3">Main Classes:</h4>
         <div className="grid sm:grid-cols-2 gap-2 text-sm text-gray-700">
           {courses.map((course, i) => (
             <span key={i}>• {course}</span>

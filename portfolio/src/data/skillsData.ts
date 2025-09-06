@@ -1,6 +1,6 @@
 export const skillsData = {
-  title: "Teknik Yetenekler",
-  description: "Yazılım geliştirme sürecinde kullandığım teknolojiler",
+  title: "Technical Skills",
+  description: "Technologies I use in the software development process",
   categories: [
     {
       title: "Backend Technologies",
